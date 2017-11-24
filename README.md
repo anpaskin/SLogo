@@ -28,6 +28,6 @@ Included:
 * Recursion
 
 Some basic design decisions:
-* unlimited arguments for differences and quotients are handled as the first argument minus/divided by all others.
+* Unlimited arguments for differences and quotients are handled as the first argument minus/divided by all others.
 * Tell, ask, askwith will throw an exception when nested inside turtle commands -- you can't ask each turtle to tell other turtles something. 
 * Writing 
