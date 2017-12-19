@@ -1,6 +1,6 @@
-# slogo
+# SLogo
 
-A development environment that helps users write SLogo programs.
+SLogo is an IDE for the Logo programming language, a language used for early computer programming education that allows users to enter commands to be executed by turtles on a canvas. For example, entering "fd 100" commands the turtle to move forward 100 steps.
 
 David Tran, Ryan Chung -- Front-End
 
@@ -12,7 +12,7 @@ Resources cited in line where applicable.
 
 To run: Main.java
 
-Several resource files are required: 
+Several included resource files are required: 
 * language properties files
 * SyntaxErrors.properties
 * choicebox.properties
@@ -27,7 +27,6 @@ Included:
 * Grouping
 * Recursion
 
-Some basic design decisions:
+Some basic design decisions and errors:
 * Unlimited arguments for differences and quotients are handled as the first argument minus/divided by all others.
-* Tell, ask, askwith will throw an exception when nested inside turtle commands -- you can't ask each turtle to tell other turtles something. 
-* Writing 
+* Tell, ask, askwith will throw an exception when nested inside turtle commands -- you can't ask each turtle to tell other turtles something.
