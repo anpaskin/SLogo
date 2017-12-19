@@ -6,7 +6,7 @@ David Tran, Ryan Chung -- Front-End
 
 Aaron Paskin, Ian Eldridge-Allegra -- Back-End
 
-10/10 to 10/30
+10/10/2017 to 10/30/2017
 
 Resources cited in line where applicable. 
 
